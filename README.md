@@ -55,12 +55,8 @@ Mi compromiso es seguir creciendo como desarrollador y aportar valor a través d
 [![GitHub Streak](https://streak-stats.demolab.com?user=ADSI-CELADA&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADSI-CELADA&show_icons=true&theme=radical)
 
- <div align="center">
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADSI-CELADA&hide_progress=true&theme=radical)
- </div>
 
- 
 </div>
 
 
